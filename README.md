@@ -10,8 +10,9 @@ Estruturação e instalação de serviços de uma rede, nomeadamente:<br>
 ▪ VPN;<br>
 ▪ Firewall;<br>
 ▪ Backup;<br>
-▪ Active Directory
+▪ Active Directory<br>
 
+<br>
 <hr>
 1º Ano<br>
 2º Semestre
